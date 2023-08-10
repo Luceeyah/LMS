@@ -8,6 +8,6 @@ The python library management system includes 5 different features:
 
 3. ADD BOOKS: Add or donate a book to the library, including the book title.
 
-4. RETURN BOOKS: Return books to the library by entering the book ID
+4. RETURN BOOKS: Return books to the library by entering the book Id.
 
-5. DELETE BOOKS:Delete books from the library with the book Id
+5. DELETE BOOKS:Delete books from the library with the book Id.
